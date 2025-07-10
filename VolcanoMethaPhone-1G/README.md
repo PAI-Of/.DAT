@@ -7,6 +7,7 @@ But we have released the Full-Csv.csv (The v0) of the dataset with 500 Words and
 |ready|ˈɹɛdi|
 
 Author: **Pawan Yadav** (One and only.)
+License: CC-BY
 
 ## Useless to read if you want to make a AI: (I wrote this, idk why)
 Talk:
